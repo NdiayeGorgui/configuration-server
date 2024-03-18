@@ -20,7 +20,3 @@ microservice:
     endpoints: 
       endpoint:
         uri: http://COURS-SERVICE/cours/
-  etudiant-cours-service:
-    endpoints: 
-      endpoint:
-        uri: http://ETUDIANT-COURS-SERVICE/etudiant-cours/ 
